@@ -1,6 +1,6 @@
 {
     "name": "simsaw-baas-client",
-    "version": "0.9.12",
+    "version": "0.9.13",
     "ignore": [],
     "dependencies": {},
     "devDependencies": {}
